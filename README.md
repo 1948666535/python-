@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/9ae2c650-db47-4570-b94f-e679b2dba445)基于python的多图拼接程序。把你想要拼接的图片放到img下就可以了。
+基于python的多图拼接程序。把你想要拼接的图片放到img下就可以了。
+
 1.这是left
 ![image](https://github.com/user-attachments/assets/74b9d566-9e9e-43a2-abec-c42e8c9a0eee)
 2.这是middle
