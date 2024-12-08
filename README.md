@@ -1,18 +1,11 @@
 基于python的多图拼接程序。把你想要拼接的图片放到img下就可以了。
+注意:以下图片是我为了方便大家理解而展示的，和真实尺寸不同
+![left](https://github.com/user-attachments/assets/feec8494-b607-4cdd-8e0f-b7809a604af3)
+![middle](https://github.com/user-attachments/assets/6fb2a53a-7a0a-4fd1-8f13-704221f5d9ed)
+![right](https://github.com/user-attachments/assets/2268d20e-accc-4ec9-8b94-a5e74539950c)
 
-1.这是left
-
-![image](https://github.com/user-attachments/assets/b68085e7-8603-4342-b8d2-2b6199aeca32)
-
-
-2.这是middle
-
-![image](https://github.com/user-attachments/assets/a4103fc2-6884-405b-84e6-29f325a2fee9)
-
-3.这是right
-
-![image](https://github.com/user-attachments/assets/ba0c8387-3cec-41fa-850a-5ef49265705a)
 
 
 4.这是结果
-![image](https://github.com/user-attachments/assets/fbbff481-88f6-4e69-9538-e1937f34200b)
+
+![result](https://github.com/user-attachments/assets/25fea949-805b-4e00-9b58-364da74bed8f)
